@@ -1,0 +1,2 @@
+streamlit
+git+https://github.com/sciunto-org/python-bibtexparser@main
